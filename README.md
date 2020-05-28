@@ -1,2 +1,2 @@
-# VBA-challange
+# VBA-challenge
 Stock analysis
